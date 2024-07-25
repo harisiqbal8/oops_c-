@@ -1,0 +1,19 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "MSYS2 UCRT": {
+      "path": "cmd.exe",
+      "args": [
+        "/c",
+        "C:\\msys64\\msys2_shell.cmd -defterm -here -no-start -ucrt64"
+      ]
+    }
+  },
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.page-template": "vue",
+    "*.layout-template": "vue",
+    "*.vue": "vue",
+    "xstring": "cpp"
+  }
+}
